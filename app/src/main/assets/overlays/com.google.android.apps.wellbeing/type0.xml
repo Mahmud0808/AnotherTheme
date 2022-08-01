@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<type0>
+
+    <type0b name="Accent Color 1" color="#FFAECBFA">
+        <preset>#FFAECBFA</preset>
+        <resource name="holo_blue_light" lighten="0.04" alpha_allowed="true" />
+    </type0b>
+    <type0c name="Accent Color 2" color="#FFAECBFA">
+        <preset>#FFAECBFA</preset>
+        <resource name="holo_green_light" lighten="0.04" alpha_allowed="true" />
+    </type0c>
+</type0>

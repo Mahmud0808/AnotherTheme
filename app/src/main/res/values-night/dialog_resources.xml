@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DialogStyle" parent="@style/Theme.Material3.DayNight.Dialog.Alert">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:colorAccent">@color/accent_color</item>
+    </style>
+
+    <color name="btn_color">#FF0D0D1A</color>
+    <color name="accent_color">#FF74D4FB</color>
+    <color name="dialog_background">#FF02020F</color>
+    <color name="desc_color">#FF95ACC9</color>
+    <color name="continue_color">#FFD6DDEA</color>
+
+    <string name="launch_dialog_title">Another Theme</string>
+    <string name="launch_dialog_content">Thanks for downloading this theme!</string>
+    <string name="welcome">Thank you for installing this theme.</string>
+    <string name="launch_dialog_positive">YES</string>
+    <string name="launch_dialog_neutral">Rate</string>
+    <string name="launch_dialog_negative">Go To Support</string>
+    <string name="do_not_show_again">Do not show again</string>
+    <string name="proceed">CONTINUE</string>
+    <string name="avd">avd</string>
+    <string name="cont">Continue</string>
+
+    <string name="changelog">Changelog</string>
+    <string name="playstore">Play store</string>
+    <string name="telegram">Telegram</string>
+    <string name="support">Support</string>
+    <string name="paypal">Paypal</string>
+    <string name="gallery">Gallery</string>
+    <string name="twitter">Twitter</string>
+
+    <!--Add your links to these and replace xxxxxxxxxxxxxx-->
+    <string name="link_changelog">xxxxxxxxxxxxxx</string>
+    <string name="link_playstore">xxxxxxxxxxxxxx</string>
+    <string name="link_telegram">https://t.me/AnotherTheme</string>
+    <string name="link_support">https://t.me/AnotherThemeBot</string>
+    <string name="link_paypal">xxxxxxxxxxxxxx</string>
+    <string name="link_gallery">xxxxxxxxxxxxxx</string>
+    <string name="link_twitter">xxxxxxxxxxxxxx</string>
+
+</resources>

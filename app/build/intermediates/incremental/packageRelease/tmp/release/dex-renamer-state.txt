@@ -1,0 +1,4 @@
+#Mon Aug 01 20:13:40 BDT 2022
+base.0=D\:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

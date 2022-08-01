@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_batterymeterBoltPath">
+        M5.18,11.31L5.18,13.70C5.13,14.17,5.90,14.29,6.30,13.70L8.60,10.15C9.00,9.41,8.23,8.70,6.82,8.69L6.82,6.30C6.87,5.83,6.10,5.71,5.70,6.30L3.40,9.85C3.00,10.59,3.77,11.30,5.18,11.31
+    </string>
+    <string name="config_batterymeterFillMask">M6.00,0.00L6.00,0.00A6.00 6.00 0 0 1
+        12.00,6.00L12.00,14.00A6.00 6.00 0 0 1 6.00,20.00L6.00,20.00A6.00 6.00 0 0 1
+        0.00,14.00L0.00,6.00A6.00 6.00 0 0 1 6.00,0.00z
+    </string>
+    <string name="config_batterymeterPerimeterPath">M6.00,0.00L6.00,0.00A6.00 6.00 0 0 1
+        12.00,6.00L12.00,14.00A6.00 6.00 0 0 1 6.00,20.00L6.00,20.00A6.00 6.00 0 0 1
+        0.00,14.00L0.00,6.00A6.00 6.00 0 0 1 6.00,0.00z
+    </string>
+    <string name="config_batterymeterPowersavePath">M6.00,0.00L6.00,0.00A6.00 6.00 0 0 1
+        12.00,6.00L12.00,14.00A6.00 6.00 0 0 1 6.00,20.00L6.00,20.00A6.00 6.00 0 0 1
+        0.00,14.00L0.00,6.00A6.00 6.00 0 0 1 6.00,0.00z
+    </string>
+    <bool name="config_batterymeterDualTone">true</bool>
+</resources>

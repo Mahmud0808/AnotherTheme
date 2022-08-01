@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textAppearance" format="reference" />
+    <attr name="datePattern" format="string" />
+    <attr name="fontFamily" format="string" />
+    <attr name="showDark" format="boolean" />
+</resources>

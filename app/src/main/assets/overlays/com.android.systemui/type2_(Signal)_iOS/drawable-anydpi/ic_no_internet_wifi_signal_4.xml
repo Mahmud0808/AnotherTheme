@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24.0dp"
+    android:height="24.0dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0">
+    <path
+        android:fillColor="#FF000000"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M18.50,17.51C19.50,17.51,20.30,18.29,20.30,19.26C20.30,20.22,19.50,21.00,18.50,21.00C17.50,21.00,16.70,20.22,16.70,19.26C16.70,18.29,17.50,17.51,18.50,17.51z" />
+    <path
+        android:fillColor="#FF000000"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M18.50,17.26Q18.02,17.26,17.78,16.76C17.06,15.27,16.58,12.28,16.82,11.53C17.06,10.53,17.78,10.28,18.50,10.28C19.22,10.28,19.94,10.53,20.18,11.53C20.42,12.28,19.94,15.27,19.22,16.76Q18.98,17.26,18.50,17.26z" />
+    <path
+        android:fillColor="#FF000000"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M15.05,17.39C13.05,15.69,10.95,15.69,8.95,17.39Q8.54,17.73,8.89,18.07L11.53,20.83Q12.00,21.17,12.47,20.83L15.11,18.07Q15.46,17.73,15.05,17.39z" />
+    <path
+        android:fillColor="#FF000000"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M23.59,8.17C23.81,8.41,23.76,8.75,23.57,8.97L21.98,10.66C21.72,10.91,21.26,10.91,21.05,10.67C16.22,6.01,7.78,6.01,2.97,10.66C2.70,10.92,2.25,10.92,2.03,10.68L0.42,8.96C0.24,8.75,0.19,8.41,0.40,8.16C7.08,1.95,16.92,1.95,23.59,8.17z" />
+    <path
+        android:fillColor="#FF000000"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M16.57,15.02C16.05,13.14,15.82,11.66,16.43,10.76C13.15,9.22,7.98,9.43,4.75,12.71C4.54,12.96,4.58,13.30,4.77,13.51L6.35,15.17C6.56,15.41,7.02,15.41,7.28,15.15C9.60,12.80,14.31,12.89,16.57,15.02z" />
+</vector>

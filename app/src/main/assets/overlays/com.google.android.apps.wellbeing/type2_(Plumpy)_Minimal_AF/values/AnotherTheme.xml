@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item format="float" name="icon_scale" type="dimen">0.65</item>
+    <color name="bg_start_color">#00000000</color>
+    <color name="bg_end_color">#00000000</color>
+    <dimen name="bg_inset">0.0dip</dimen>
+    <dimen name="bg_inset2">0.0dip</dimen>
+    <color name="outline_start_color">#00000000</color>
+    <color name="outline_end_color">#00000000</color>
+    <color name="outline_color">#00000000</color>
+</resources>

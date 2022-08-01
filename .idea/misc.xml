@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/btn_continue.xml" value="0.25" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/btn_desc.xml" value="0.2775" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/btn_donate.xml" value="0.273" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/btn_support.xml" value="0.1945" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/btn_telegram.xml" value="0.1945" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/dialog_bg.xml" value="0.25" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/ic_changelog.xml" value="0.3455" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2775" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/ic_logo.xml" value="0.263" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/ic_paypal.xml" value="0.273" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/ic_support.xml" value="0.196" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/ic_telegram.xml" value="0.3455" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/layout/custom_dialog.xml" value="0.33" />
+        <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3455" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

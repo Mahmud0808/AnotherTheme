@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <LinearLayout
+        android:id="@+id/body"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/dialog_bg"
+        android:orientation="vertical"
+        android:padding="24.0dip">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/telegram"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip"
+                android:layout_gravity="left"
+                android:background="@drawable/btn_telegram"
+                android:contentDescription="@string/link_telegram"
+                android:gravity="center"
+                android:tint="@color/accent_color"
+                app:srcCompat="@drawable/ic_telegram" />
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_marginLeft="48.0dip"
+                android:layout_marginRight="48.0dip"
+                android:layout_width="86.0dip"
+                android:layout_height="86.0dip"
+                android:layout_gravity="center"
+                android:background="@drawable/ic_logo"
+                android:contentDescription="@string/launch_dialog_title"
+                android:gravity="center"
+                tools:ignore="Orientation" />
+
+            <ImageButton
+                android:id="@+id/support"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip"
+                android:layout_gravity="right"
+                android:background="@drawable/btn_support"
+                android:contentDescription="@string/link_support"
+                android:gravity="center"
+                android:tint="@color/accent_color"
+                app:srcCompat="@drawable/ic_support" />
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingTop="4.0dip"
+            android:paddingBottom="8.0dip"
+            android:paddingLeft="8.0dip"
+            android:paddingRight="8.0dip">
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@android:color/transparent"
+                android:fontFamily="@font/baloo2medium"
+                android:gravity="center"
+                android:text="@string/launch_dialog_title"
+                android:textAllCaps="false"
+                android:textColor="@color/accent_color"
+                android:textSize="24.0sp" />
+
+            <TextView
+                android:id="@+id/dialog_content"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="-4.0dip"
+                android:background="@android:color/transparent"
+                android:fontFamily="@font/baloo2regular"
+                android:gravity="center"
+                android:text="@string/launch_dialog_content"
+                android:textColor="@color/desc_color"
+                android:textSize="14.0sp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button_continue"
+            android:layout_width="fill_parent"
+            android:layout_height="58.0dip"
+            android:layout_below="@+id/dialog_content"
+            android:layout_marginTop="8.0dip"
+            android:background="@drawable/btn_continue"
+            android:fontFamily="@font/baloo2bold"
+            android:letterSpacing="0.3"
+            android:text="@string/proceed"
+            android:textColor="@color/continue_color"
+            android:textSize="20.0sp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:visibility="gone">
+
+            <CheckBox
+                android:id="@+id/myCheckBox"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="22.0dip"
+                android:background="@android:color/transparent"
+                android:buttonTint="@color/accent_color"
+                android:paddingStart="8.0dip"
+                android:text="@string/do_not_show_again"
+                android:textColor="@color/accent_color"
+                android:textSize="12.0sp" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

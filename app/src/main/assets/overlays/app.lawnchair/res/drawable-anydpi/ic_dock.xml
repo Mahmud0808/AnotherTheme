@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24.0dp"
+    android:height="24.0dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0">
+    <path
+        android:fillColor="#66FFFFFF"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M12.00,19.50C10.16,19.38,7.85,22.61,5.86,21.38C3.86,20.15,6.01,16.62,5.40,14.78C4.74,12.77,1.87,12.24,1.87,10.17C1.87,7.41,6.47,8.33,8.16,7.25C9.47,6.03,9.93,2.34,12.00,2.34C14.07,2.34,14.53,6.03,15.84,7.25C17.53,8.33,22.13,7.41,22.13,10.17C22.13,12.24,19.26,12.77,18.60,14.78C17.99,16.62,20.14,20.15,18.14,21.38C16.15,22.61,13.84,19.38,12.00,19.50z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M9.70,14.32C10.46,14.32,11.08,14.94,11.08,15.70C11.08,16.46,10.46,17.08,9.70,17.08C8.93,17.08,8.32,16.46,8.32,15.70C8.32,14.94,8.93,14.32,9.70,14.32z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M15.22,10.63C15.99,10.63,16.61,11.25,16.61,12.01C16.61,12.78,15.99,13.40,15.22,13.40C14.46,13.40,13.84,12.78,13.84,12.01C13.84,11.25,14.46,10.63,15.22,10.63z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M12.00,7.87C12.51,7.87,12.92,8.28,12.92,8.79C12.92,9.30,12.51,9.71,12.00,9.71C11.49,9.71,11.08,9.30,11.08,8.79C11.08,8.28,11.49,7.87,12.00,7.87z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M14.76,15.24C15.27,15.24,15.68,15.65,15.68,16.16C15.68,16.67,15.27,17.08,14.76,17.08C14.25,17.08,13.84,16.67,13.84,16.16C13.84,15.65,14.25,15.24,14.76,15.24z" />
+</vector>

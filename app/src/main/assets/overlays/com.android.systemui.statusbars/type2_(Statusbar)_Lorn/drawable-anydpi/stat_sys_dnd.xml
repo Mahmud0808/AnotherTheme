@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android">
+    <vector
+        android:width="17.0dp"
+        android:height="17.0dp"
+        android:viewportWidth="17.0"
+        android:viewportHeight="17.0">
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FF000000"
+            android:strokeWidth="2.091"
+            android:strokeLineJoin="round"
+            android:fillType="nonZero"
+            android:strokeLineCap="round"
+            android:pathData="M5.31,4.25L11.69,4.25A2.83 2.83 0 0 1 14.52,7.08L14.52,11.69A2.83 2.83 0 0 1 11.69,14.52L5.31,14.52A2.83 2.83 0 0 1 2.48,11.69L2.48,7.08A2.83 2.83 0 0 1 5.31,4.25z" />
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FF000000"
+            android:strokeWidth="2.091"
+            android:strokeLineJoin="round"
+            android:fillType="nonZero"
+            android:strokeLineCap="round"
+            android:pathData="M4.60,2.48L4.96,3.54" />
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FF000000"
+            android:strokeWidth="2.091"
+            android:strokeLineJoin="round"
+            android:fillType="nonZero"
+            android:strokeLineCap="round"
+            android:pathData="M12.40,2.48L12.04,3.54" />
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FF000000"
+            android:strokeWidth="2.091"
+            android:strokeLineJoin="round"
+            android:fillType="nonZero"
+            android:strokeLineCap="round"
+            android:pathData="M7.25,10.64L9.75,8.13" />
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FF000000"
+            android:strokeWidth="2.091"
+            android:strokeLineJoin="round"
+            android:fillType="nonZero"
+            android:strokeLineCap="round"
+            android:pathData="M7.25,8.13L9.75,10.64" />
+    </vector>
+</inset>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/icon_bg" />
+    <item>
+        <vector
+            android:width="24.0dp"
+            android:height="24.0dp"
+            android:tint="@color/icon_tint"
+            android:tintMode="multiply"
+            android:viewportWidth="24.0"
+            android:viewportHeight="24.0">
+            <group
+                android:pivotX="12.0"
+                android:pivotY="12.0"
+                android:scaleX="@dimen/icon_scale"
+                android:scaleY="@dimen/icon_scale">
+                <path
+                    android:fillColor="#00000000"
+                    android:strokeColor="@color/icon_tint"
+                    android:strokeWidth="1.77"
+                    android:strokeLineJoin="miter"
+                    android:fillType="nonZero"
+                    android:strokeLineCap="round"
+                    android:pathData="M3.16,12.00L3.16,8.57C3.16,5.82,6.59,5.82,8.31,5.82C10.02,4.44,11.40,3.07,14.15,2.73Q17.58,2.38,17.58,5.13L17.58,12.00L17.58,18.87Q17.58,21.62,14.15,21.27C11.40,20.93,10.02,19.56,8.31,18.18C6.59,18.18,3.16,18.18,3.16,15.43L3.16,12.00z" />
+                <path
+                    android:fillColor="#00000000"
+                    android:strokeColor="@color/icon_tint"
+                    android:strokeWidth="1.77"
+                    android:strokeLineJoin="miter"
+                    android:fillType="nonZero"
+                    android:strokeLineCap="round"
+                    android:pathData="M17.58,7.19C21.70,8.57,21.70,15.43,17.58,17.50" />
+                <path
+                    android:fillColor="@color/icon_tint"
+                    android:fillAlpha="0.4"
+                    android:strokeLineJoin="miter"
+                    android:fillType="nonZero"
+                    android:strokeLineCap="round"
+                    android:pathData="M17.75,17.50C21.88,15.43,21.88,8.57,17.75,7.19L17.75,17.50z" />
+                <path
+                    android:fillColor="@color/icon_tint"
+                    android:fillAlpha="0.4"
+                    android:strokeColor="@color/icon_tint"
+                    android:strokeWidth="1.77"
+                    android:strokeLineJoin="miter"
+                    android:fillType="nonZero"
+                    android:strokeLineCap="round"
+                    android:pathData="M8.14,12.00L10.46,12.00" />
+            </group>
+        </vector>
+    </item>
+</layer-list>

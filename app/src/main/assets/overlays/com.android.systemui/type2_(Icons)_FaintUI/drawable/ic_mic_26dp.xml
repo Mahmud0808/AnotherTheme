@@ -1,0 +1,52 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="26.0dp"
+    android:height="26.0dp"
+    android:viewportWidth="26.0"
+    android:viewportHeight="26.0">
+    <path
+        android:fillColor="#66FFFFFF"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M5.54,18.43L20.46,18.43L20.46,21.59L5.54,21.59z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="1.93284"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M20.91,12.10L20.91,18.43Q20.91,22.04,17.30,22.04L8.70,22.04Q5.09,22.04,5.09,18.43L5.09,12.10C5.54,1.24,20.46,1.24,20.91,12.10z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="1.93284"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="square"
+        android:pathData="M5.54,18.43L20.01,18.43" />
+    <path
+        android:fillColor="#66000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="1.93284"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="round"
+        android:pathData="M13.00,14.81L13.00,10.29" />
+    <path
+        android:fillColor="#66000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="1.93284"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="round"
+        android:pathData="M9.83,11.64L9.83,13.45" />
+    <path
+        android:fillColor="#66000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="1.93284"
+        android:strokeLineJoin="miter"
+        android:fillType="nonZero"
+        android:strokeLineCap="round"
+        android:pathData="M16.17,11.64L16.17,13.45" />
+</vector>

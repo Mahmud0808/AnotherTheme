@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_heroimage.png.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable-xxhdpi\\heroimage.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\layout_custom_dialog.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\font_baloo2regular.ttf.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\font\\baloo2regular.ttf"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_gallery.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\ic_gallery.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_bg.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_playstore.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\ic_playstore.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_desc.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\btn_desc.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\font_baloo2bold.ttf.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\font\\baloo2bold.ttf"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable-night_ic_logo.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable-night\\ic_logo.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_twitter.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\ic_twitter.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\font_baloo2extrabold.ttf.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\font\\baloo2extrabold.ttf"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_telegram.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\ic_telegram.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_changelog.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\ic_changelog.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_paypal.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\ic_paypal.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable-v26_ic_launcher_foreground.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable-v26\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_logo.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_continue.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\btn_continue.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_telegram.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\btn_telegram.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\font_baloo2medium.ttf.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\font\\baloo2medium.ttf"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_support.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\ic_support.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\font_baloo2semibold.ttf.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\font\\baloo2semibold.ttf"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable-v26_ic_launcher_background.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable-v26\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_support.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\btn_support.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    }
+]
