@@ -19,7 +19,7 @@ tasks {
 
 allprojects {
     repositories {
-		google()
+        google()
         jcenter()
         maven {
             url "https://jitpack.io"
@@ -35,7 +35,7 @@ task clean(type: Delete) {
         def encryptedAssets = new File(getProjectDir(), "src/main/assets")
         encryptedAssets.deleteDir()
 
-        tempAssets.eachFileRecurse (FileType.FILES) { file ->
+        tempAssets.eachFileRecurse(FileType.FILES) { file ->
             FileInputStream fis = new FileInputStream(file)
             File fo = new File(file.getAbsolutePath().replace("assets-temp", "assets"))
             fo.getParentFile().mkdirs()

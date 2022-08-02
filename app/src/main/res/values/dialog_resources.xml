@@ -10,8 +10,10 @@
     <color name="btn_color">#FF006687</color>
     <color name="accent_color">#FF74D4FB</color>
     <color name="dialog_background">#FFD1E6F3</color>
-    <color name="desc_color">#88000000</color>
+    <color name="desc_color">#92000000</color>
     <color name="continue_color">#FFFFFFFF</color>
+    <color name="btn_tg">@color/btn_color</color>
+    <color name="ripple_color">#6674D4FB</color>
 
     <string name="launch_dialog_title">Another Theme</string>
     <string name="launch_dialog_content">Thanks for downloading this theme!</string>

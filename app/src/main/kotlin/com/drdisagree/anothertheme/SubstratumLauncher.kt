@@ -14,15 +14,15 @@ import android.view.LayoutInflater
 import android.widget.*
 import com.anjlab.android.iab.v3.BillingProcessor
 import com.anjlab.android.iab.v3.TransactionDetails
-import com.github.javiersantos.piracychecker.*
-import com.github.javiersantos.piracychecker.enums.InstallerID
-import com.github.javiersantos.piracychecker.utils.apkSignature
 import com.drdisagree.anothertheme.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
 import com.drdisagree.anothertheme.AdvancedConstants.OTHER_THEME_SYSTEMS
 import com.drdisagree.anothertheme.ThemeFunctions.checkApprovedSignature
 import com.drdisagree.anothertheme.ThemeFunctions.getSelfSignature
 import com.drdisagree.anothertheme.ThemeFunctions.getSelfVerifiedPirateTools
 import com.drdisagree.anothertheme.ThemeFunctions.isCallingPackageAllowed
+import com.github.javiersantos.piracychecker.*
+import com.github.javiersantos.piracychecker.enums.InstallerID
+import com.github.javiersantos.piracychecker.utils.apkSignature
 
 /**
  * NOTE TO THEMERS
@@ -63,9 +63,11 @@ class SubstratumLauncher : Activity(), BillingProcessor.IBillingHandler {
         val supportedSystem = organizationsSystem || OTHER_THEME_SYSTEMS.contains(caller)
         if (!BuildConfig.SUPPORTS_THIRD_PARTY_SYSTEMS && !supportedSystem) {
             Log.e(tag, "This theme does not support the launching theme system. [HIJACK] ($caller)")
-            Toast.makeText(this,
-                    String.format(getString(R.string.unauthorized_theme_client_hijack), caller),
-                    Toast.LENGTH_LONG).show()
+            Toast.makeText(
+                this,
+                String.format(getString(R.string.unauthorized_theme_client_hijack), caller),
+                Toast.LENGTH_LONG
+            ).show()
             finish()
         }
         if (debug) {
@@ -86,8 +88,8 @@ class SubstratumLauncher : Activity(), BillingProcessor.IBillingHandler {
             }
         } else {
             OTHER_THEME_SYSTEMS
-                    .filter { action?.startsWith(prefix = it, ignoreCase = true) ?: false }
-                    .forEach { _ -> verified = true }
+                .filter { action?.startsWith(prefix = it, ignoreCase = true) ?: false }
+                .forEach { _ -> verified = true }
         }
         if (!verified) {
             Log.e(tag, "This theme does not support the launching theme system. ($action)")
@@ -184,15 +186,16 @@ class SubstratumLauncher : Activity(), BillingProcessor.IBillingHandler {
                     }
                     doNotAllow { _, _ ->
                         val parse = String.format(
-                                getString(R.string.toast_unlicensed),
-                                getString(R.string.ThemeName))
+                            getString(R.string.toast_unlicensed),
+                            getString(R.string.ThemeName)
+                        )
                         Toast.makeText(this@SubstratumLauncher, parse, Toast.LENGTH_SHORT).show()
                         destroy()
                         finish()
                     }
                     onError { error ->
                         Toast.makeText(this@SubstratumLauncher, error.toString(), Toast.LENGTH_LONG)
-                                .show()
+                            .show()
                         destroy()
                         finish()
                     }
@@ -208,7 +211,7 @@ class SubstratumLauncher : Activity(), BillingProcessor.IBillingHandler {
     private fun showDialog() {
 
         val alertDialog = AlertDialog.Builder(this, R.style.DialogStyle)
-                .setCancelable(false)
+            .setCancelable(false)
         val view = LayoutInflater.from(this).inflate(R.layout.custom_dialog, null)
         val title = view.findViewById(R.id.title) as TextView
         title.text = getString(R.string.launch_dialog_title)

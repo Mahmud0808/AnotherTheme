@@ -12,6 +12,8 @@
     <color name="dialog_background">#FF02020F</color>
     <color name="desc_color">#FF95ACC9</color>
     <color name="continue_color">#FFD6DDEA</color>
+    <color name="btn_tg">@color/accent_color</color>
+    <color name="ripple_color">#2874D4FB</color>
 
     <string name="launch_dialog_title">Another Theme</string>
     <string name="launch_dialog_content">Thanks for downloading this theme!</string>
