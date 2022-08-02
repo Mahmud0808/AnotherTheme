@@ -2,9 +2,12 @@
 <resources>
     <color name="accent_color">#FF74D4FB</color>
     <color name="btn_color">#FF0D0D1A</color>
+    <color name="btn_tg">@color/accent_color</color>
     <color name="continue_color">#FFD6DDEA</color>
     <color name="desc_color">#FF95ACC9</color>
     <color name="dialog_background">#FF02020F</color>
+    <color name="ripple_color">#2874D4FB</color>
+    <color name="ripple_small">#28FFFFFF</color>
     <string name="avd">avd</string>
     <string name="changelog">Changelog</string>
     <string name="cont">Continue</string>

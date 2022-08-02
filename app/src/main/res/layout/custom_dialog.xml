@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:layout_gravity="center"
@@ -32,7 +31,7 @@
                 android:layout_width="48.0dip"
                 android:layout_height="48.0dip"
                 android:layout_gravity="start"
-                android:background="@drawable/btn_telegram"
+                android:background="@drawable/btn_bg"
                 android:backgroundTint="@color/btn_tg"
                 android:contentDescription="@string/link_telegram"
                 android:gravity="center"
@@ -48,15 +47,14 @@
                 android:layout_marginRight="48.0dip"
                 android:background="@drawable/ic_logo"
                 android:contentDescription="@string/launch_dialog_title"
-                android:gravity="center"
-                tools:ignore="Orientation" />
+                android:gravity="center" />
 
             <ImageButton
                 android:id="@+id/support"
                 android:layout_width="48.0dip"
                 android:layout_height="48.0dip"
                 android:layout_gravity="end"
-                android:background="@drawable/btn_support"
+                android:background="@drawable/btn_bg"
                 android:backgroundTint="@color/btn_tg"
                 android:contentDescription="@string/link_support"
                 android:gravity="center"
@@ -127,6 +125,7 @@
                 android:background="@android:color/transparent"
                 android:buttonTint="@color/accent_color"
                 android:paddingLeft="8.0dip"
+                android:paddingRight="8.0dip"
                 android:text="@string/do_not_show_again"
                 android:textColor="@color/accent_color"
                 android:textSize="12.0sp" />

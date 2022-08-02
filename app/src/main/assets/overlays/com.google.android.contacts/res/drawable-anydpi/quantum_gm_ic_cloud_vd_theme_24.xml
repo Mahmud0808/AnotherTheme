@@ -5,8 +5,8 @@
     android:viewportHeight="24.0">
     <path
         android:fillColor="#66FFFFFF"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M18.20,20.46C26.46,18.96,24.96,10.44,19.45,8.44C16.44,0.92,4.42,2.43,4.37,10.44C-1.59,11.44,-1.59,20.46,5.33,20.46L18.20,20.46z"
         android:strokeLineCap="square"
-        android:pathData="M18.20,20.46C26.46,18.96,24.96,10.44,19.45,8.44C16.44,0.92,4.42,2.43,4.37,10.44C-1.59,11.44,-1.59,20.46,5.33,20.46L18.20,20.46z" />
+        android:strokeLineJoin="miter" />
 </vector>

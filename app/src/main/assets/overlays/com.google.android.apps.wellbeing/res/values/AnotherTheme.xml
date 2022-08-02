@@ -15,5 +15,5 @@
     <dimen name="dashboard_tile_image_size">38.0dip</dimen>
     <dimen name="dashboard_tile_foreground_image_size">20.0dip</dimen>
     <dimen name="dashboard_tile_foreground_image_inset">-1.0dip</dimen>
-    <item format="float" name="icon_scale" type="dimen">0.5</item>
+    <item name="icon_scale" format="float" type="dimen">0.5</item>
 </resources>

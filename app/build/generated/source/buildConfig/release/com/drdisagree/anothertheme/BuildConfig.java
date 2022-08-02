@@ -15,8 +15,8 @@ public final class BuildConfig {
   public static final boolean ENFORCE_GOOGLE_PLAY_INSTALL = false;
   // Fields from default config.
   public static final boolean ALLOW_THIRD_PARTY_SUBSTRATUM_BUILDS = true;
-  public static final byte[] DECRYPTION_KEY = {1, -62, -107, 2, 103, 69, -96, -59, 34, 68, -36, 38, -94, -105, 64, 87};
+  public static final byte[] DECRYPTION_KEY = {18, -111, -9, -53, -12, 93, 26, 50, 3, 38, 35, -61, 5, -125, 76, -85};
   public static final boolean ENABLE_APP_BLACKLIST_CHECK = true;
-  public static final byte[] IV_KEY = {103, -107, 123, -125, -126, -25, -95, -68, -5, 23, 37, 80, 30, 85, 47, -4};
+  public static final byte[] IV_KEY = {94, -61, 41, -96, 72, -8, 39, -14, -94, 96, -82, -82, -14, -56, -50, -91};
   public static final boolean SUPPORTS_THIRD_PARTY_SYSTEMS = true;
 }

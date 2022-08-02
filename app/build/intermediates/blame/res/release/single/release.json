@@ -108,8 +108,8 @@
         "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\btn_continue.xml"
     },
     {
-        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_telegram.xml.flat",
-        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\btn_telegram.xml"
+        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_bg.xml.flat",
+        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\btn_bg.xml"
     },
     {
         "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\font_baloo2medium.ttf.flat",
@@ -130,10 +130,6 @@
     {
         "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
         "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_support.xml.flat",
-        "source": "D:\\StudioProjects\\Another Theme\\app\\src\\main\\res\\drawable\\btn_support.xml"
     },
     {
         "merged": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_background.png.flat",

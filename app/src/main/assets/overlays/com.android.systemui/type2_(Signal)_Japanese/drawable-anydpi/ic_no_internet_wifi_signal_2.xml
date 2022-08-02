@@ -5,10 +5,10 @@
     android:viewportHeight="24.0">
     <path
         android:fillColor="#00000000"
-        android:strokeColor="#66000000"
-        android:strokeWidth="2.016"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M4.10,6.01Q5.37,4.74,5.88,2.95M11.49,7.80L3.85,7.80M14.55,10.34L20.15,10.34L20.15,4.74L14.55,4.74zM10.98,4.74L6.39,4.74M8.18,7.29L8.18,5.25M7.92,8.81Q6.39,11.36,3.85,12.38M10.98,11.36L7.92,9.32M6.90,20.03L18.12,20.03L18.12,13.91L6.90,13.91zM17.61,16.97L7.41,16.97M6.90,21.05L6.90,20.03M18.12,21.05L18.12,20.03"
+        android:strokeWidth="2.016"
+        android:strokeColor="#66000000"
         android:strokeLineCap="square"
-        android:pathData="M4.10,6.01Q5.37,4.74,5.88,2.95M11.49,7.80L3.85,7.80M14.55,10.34L20.15,10.34L20.15,4.74L14.55,4.74zM10.98,4.74L6.39,4.74M8.18,7.29L8.18,5.25M7.92,8.81Q6.39,11.36,3.85,12.38M10.98,11.36L7.92,9.32M6.90,20.03L18.12,20.03L18.12,13.91L6.90,13.91zM17.61,16.97L7.41,16.97M6.90,21.05L6.90,20.03M18.12,21.05L18.12,20.03" />
+        android:strokeLineJoin="miter" />
 </vector>

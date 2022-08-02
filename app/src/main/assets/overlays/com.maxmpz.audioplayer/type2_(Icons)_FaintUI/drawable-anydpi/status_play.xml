@@ -5,24 +5,24 @@
     android:viewportHeight="24.0">
     <path
         android:fillColor="#66000000"
-        android:strokeLineJoin="round"
         android:fillType="nonZero"
+        android:pathData="M10.27,7.51C10.27,5.47,11.08,3.84,13.94,3.84L15.57,3.84C17.61,3.84,19.65,4.65,19.65,7.10L19.65,16.49C19.65,19.35,17.61,20.16,15.57,20.16C13.12,20.16,11.90,19.35,11.49,17.31L15.57,14.04Q17.20,12.82,15.57,11.18L10.27,7.51z"
         android:strokeLineCap="round"
-        android:pathData="M10.27,7.51C10.27,5.47,11.08,3.84,13.94,3.84L15.57,3.84C17.61,3.84,19.65,4.65,19.65,7.10L19.65,16.49C19.65,19.35,17.61,20.16,15.57,20.16C13.12,20.16,11.90,19.35,11.49,17.31L15.57,14.04Q17.20,12.82,15.57,11.18L10.27,7.51z" />
+        android:strokeLineJoin="round" />
     <path
         android:fillColor="#00000000"
-        android:strokeColor="#FF000000"
-        android:strokeWidth="1.61841017"
-        android:strokeLineJoin="round"
         android:fillType="nonZero"
+        android:pathData="M14.96,14.45L8.84,18.53C5.98,20.16,4.35,18.94,4.35,16.49L4.35,12.82L4.35,9.14C4.35,6.69,5.98,5.47,8.84,7.10L14.96,11.18Q17.41,12.82,14.96,14.45z"
+        android:strokeWidth="1.61841017"
+        android:strokeColor="#FF000000"
         android:strokeLineCap="round"
-        android:pathData="M14.96,14.45L8.84,18.53C5.98,20.16,4.35,18.94,4.35,16.49L4.35,12.82L4.35,9.14C4.35,6.69,5.98,5.47,8.84,7.10L14.96,11.18Q17.41,12.82,14.96,14.45z" />
+        android:strokeLineJoin="round" />
     <path
         android:fillColor="#00000000"
-        android:strokeColor="#FF000000"
-        android:strokeWidth="1.61841017"
-        android:strokeLineJoin="round"
         android:fillType="nonZero"
+        android:pathData="M11.29,17.31C11.69,19.35,12.92,20.16,14.67,20.17L16.17,20.17C17.41,20.16,19.45,19.35,19.45,16.49L19.45,7.10C19.45,4.65,17.41,3.84,15.37,3.84L13.73,3.84C10.88,3.84,10.06,5.47,10.06,7.51"
+        android:strokeWidth="1.61841017"
+        android:strokeColor="#FF000000"
         android:strokeLineCap="round"
-        android:pathData="M11.29,17.31C11.69,19.35,12.92,20.16,14.67,20.17L16.17,20.17C17.41,20.16,19.45,19.35,19.45,16.49L19.45,7.10C19.45,4.65,17.41,3.84,15.37,3.84L13.73,3.84C10.88,3.84,10.06,5.47,10.06,7.51" />
+        android:strokeLineJoin="round" />
 </vector>

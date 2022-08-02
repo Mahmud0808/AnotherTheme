@@ -6,26 +6,26 @@
     android:viewportHeight="24.0">
     <path
         android:fillColor="#66FFFFFF"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M12.00,2.00C17.52,2.00,22.00,6.48,22.00,12.00C22.00,17.52,17.52,22.00,12.00,22.00C6.48,22.00,2.00,17.52,2.00,12.00C2.00,6.48,6.48,2.00,12.00,2.00z"
         android:strokeLineCap="square"
-        android:pathData="M12.00,2.00C17.52,2.00,22.00,6.48,22.00,12.00C22.00,17.52,17.52,22.00,12.00,22.00C6.48,22.00,2.00,17.52,2.00,12.00C2.00,6.48,6.48,2.00,12.00,2.00z" />
+        android:strokeLineJoin="miter" />
     <path
         android:fillColor="#FFFFFFFF"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M9.50,10.93L6.50,10.93Q5.88,10.75,6.25,10.00C7.00,8.75,9.00,8.75,9.75,10.00Q10.12,10.75,9.50,10.93z"
         android:strokeLineCap="square"
-        android:pathData="M9.50,10.93L6.50,10.93Q5.88,10.75,6.25,10.00C7.00,8.75,9.00,8.75,9.75,10.00Q10.12,10.75,9.50,10.93z" />
+        android:strokeLineJoin="miter" />
     <path
         android:fillColor="#FFFFFFFF"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M17.50,10.93L14.50,10.93Q13.88,10.75,14.25,10.00C15.00,8.75,17.00,8.75,17.75,10.00Q18.13,10.75,17.50,10.93z"
         android:strokeLineCap="square"
-        android:pathData="M17.50,10.93L14.50,10.93Q13.88,10.75,14.25,10.00C15.00,8.75,17.00,8.75,17.75,10.00Q18.13,10.75,17.50,10.93z" />
+        android:strokeLineJoin="miter" />
     <path
         android:fillColor="#FFFFFFFF"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M16.03,13.99L7.97,13.99Q6.25,14.25,7.30,16.49C9.31,19.85,14.69,19.85,16.70,16.49Q17.75,14.25,16.03,13.99z"
         android:strokeLineCap="square"
-        android:pathData="M16.03,13.99L7.97,13.99Q6.25,14.25,7.30,16.49C9.31,19.85,14.69,19.85,16.70,16.49Q17.75,14.25,16.03,13.99z" />
+        android:strokeLineJoin="miter" />
 </vector>

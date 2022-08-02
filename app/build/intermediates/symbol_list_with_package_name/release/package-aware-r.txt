@@ -1122,6 +1122,7 @@ color bright_foreground_inverse_material_light
 color bright_foreground_material_dark
 color bright_foreground_material_light
 color btn_color
+color btn_tg
 color button_material_dark
 color button_material_light
 color cardview_dark_background
@@ -1667,8 +1668,10 @@ color primary_text_default_material_light
 color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
 color radiobutton_themeable_attribute_color
+color ripple_color
 color ripple_material_dark
 color ripple_material_light
+color ripple_small
 color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
@@ -2357,6 +2360,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable btn_bg
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2367,8 +2371,6 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
-drawable btn_support
-drawable btn_telegram
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off

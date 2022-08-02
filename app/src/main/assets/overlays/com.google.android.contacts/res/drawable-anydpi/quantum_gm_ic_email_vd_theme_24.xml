@@ -6,14 +6,14 @@
     android:viewportHeight="24.0">
     <path
         android:fillColor="#66FFFFFF"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M5.00,4.00L19.00,4.00A3.00 3.00 0 0 1 22.00,7.00L22.00,17.00A3.00 3.00 0 0 1 19.00,20.00L5.00,20.00A3.00 3.00 0 0 1 2.00,17.00L2.00,7.00A3.00 3.00 0 0 1 5.00,4.00z"
         android:strokeLineCap="square"
-        android:pathData="M5.00,4.00L19.00,4.00A3.00 3.00 0 0 1 22.00,7.00L22.00,17.00A3.00 3.00 0 0 1 19.00,20.00L5.00,20.00A3.00 3.00 0 0 1 2.00,17.00L2.00,7.00A3.00 3.00 0 0 1 5.00,4.00z" />
+        android:strokeLineJoin="miter" />
     <path
         android:fillColor="#FFFFFFFF"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M12.00,4.00L5.00,4.00C3.50,4.00,2.00,5.50,2.00,7.00L10.50,12.00Q11.00,12.25,12.00,12.25Q13.00,12.25,13.50,12.00L22.00,7.00C22.00,5.50,20.50,4.00,19.00,4.00L12.00,4.00z"
         android:strokeLineCap="square"
-        android:pathData="M12.00,4.00L5.00,4.00C3.50,4.00,2.00,5.50,2.00,7.00L10.50,12.00Q11.00,12.25,12.00,12.25Q13.00,12.25,13.50,12.00L22.00,7.00C22.00,5.50,20.50,4.00,19.00,4.00L12.00,4.00z" />
+        android:strokeLineJoin="miter" />
 </vector>

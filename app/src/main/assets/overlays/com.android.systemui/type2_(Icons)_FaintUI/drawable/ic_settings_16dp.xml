@@ -6,46 +6,46 @@
     android:viewportHeight="16.0">
     <path
         android:fillColor="#66000000"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M4.67,2.00C5.96,2.00,7.00,3.12,7.00,4.50C7.00,5.88,5.96,7.00,4.67,7.00C3.38,7.00,2.33,5.88,2.33,4.50C2.33,3.12,3.38,2.00,4.67,2.00z"
         android:strokeLineCap="square"
-        android:pathData="M4.67,2.00C5.96,2.00,7.00,3.12,7.00,4.50C7.00,5.88,5.96,7.00,4.67,7.00C3.38,7.00,2.33,5.88,2.33,4.50C2.33,3.12,3.38,2.00,4.67,2.00z" />
+        android:strokeLineJoin="miter" />
     <path
         android:fillColor="#00000000"
-        android:strokeColor="#FF000000"
-        android:strokeWidth="1.1894499995"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M4.83,2.00L11.17,2.00A2.50 2.50 0 0 1 13.67,4.50L13.67,4.50A2.50 2.50 0 0 1 11.17,7.00L4.83,7.00A2.50 2.50 0 0 1 2.33,4.50L2.33,4.50A2.50 2.50 0 0 1 4.83,2.00z"
+        android:strokeWidth="1.1894499995"
+        android:strokeColor="#FF000000"
         android:strokeLineCap="square"
-        android:pathData="M4.83,2.00L11.17,2.00A2.50 2.50 0 0 1 13.67,4.50L13.67,4.50A2.50 2.50 0 0 1 11.17,7.00L4.83,7.00A2.50 2.50 0 0 1 2.33,4.50L2.33,4.50A2.50 2.50 0 0 1 4.83,2.00z" />
+        android:strokeLineJoin="miter" />
     <path
         android:fillColor="#00000000"
-        android:strokeColor="#FF000000"
-        android:strokeWidth="1.1894499995"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M4.83,2.00C6.21,2.00,7.33,3.12,7.33,4.50C7.33,5.88,6.21,7.00,4.83,7.00C3.45,7.00,2.33,5.88,2.33,4.50C2.33,3.12,3.45,2.00,4.83,2.00z"
+        android:strokeWidth="1.1894499995"
+        android:strokeColor="#FF000000"
         android:strokeLineCap="square"
-        android:pathData="M4.83,2.00C6.21,2.00,7.33,3.12,7.33,4.50C7.33,5.88,6.21,7.00,4.83,7.00C3.45,7.00,2.33,5.88,2.33,4.50C2.33,3.12,3.45,2.00,4.83,2.00z" />
+        android:strokeLineJoin="miter" />
     <path
         android:fillColor="#66000000"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M11.33,9.00C12.62,9.00,13.67,10.12,13.67,11.50C13.67,12.88,12.62,14.00,11.33,14.00C10.04,14.00,9.00,12.88,9.00,11.50C9.00,10.12,10.04,9.00,11.33,9.00z"
         android:strokeLineCap="square"
-        android:pathData="M11.33,9.00C12.62,9.00,13.67,10.12,13.67,11.50C13.67,12.88,12.62,14.00,11.33,14.00C10.04,14.00,9.00,12.88,9.00,11.50C9.00,10.12,10.04,9.00,11.33,9.00z" />
+        android:strokeLineJoin="miter" />
     <path
         android:fillColor="#00000000"
-        android:strokeColor="#FF000000"
-        android:strokeWidth="1.1894499995"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M4.83,9.00L11.17,9.00A2.50 2.50 0 0 1 13.67,11.50L13.67,11.50A2.50 2.50 0 0 1 11.17,14.00L4.83,14.00A2.50 2.50 0 0 1 2.33,11.50L2.33,11.50A2.50 2.50 0 0 1 4.83,9.00z"
+        android:strokeWidth="1.1894499995"
+        android:strokeColor="#FF000000"
         android:strokeLineCap="square"
-        android:pathData="M4.83,9.00L11.17,9.00A2.50 2.50 0 0 1 13.67,11.50L13.67,11.50A2.50 2.50 0 0 1 11.17,14.00L4.83,14.00A2.50 2.50 0 0 1 2.33,11.50L2.33,11.50A2.50 2.50 0 0 1 4.83,9.00z" />
+        android:strokeLineJoin="miter" />
     <path
         android:fillColor="#00000000"
-        android:strokeColor="#FF000000"
-        android:strokeWidth="1.1894499995"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M11.17,9.00C12.55,9.00,13.67,10.12,13.67,11.50C13.67,12.88,12.55,14.00,11.17,14.00C9.79,14.00,8.67,12.88,8.67,11.50C8.67,10.12,9.79,9.00,11.17,9.00z"
+        android:strokeWidth="1.1894499995"
+        android:strokeColor="#FF000000"
         android:strokeLineCap="square"
-        android:pathData="M11.17,9.00C12.55,9.00,13.67,10.12,13.67,11.50C13.67,12.88,12.55,14.00,11.17,14.00C9.79,14.00,8.67,12.88,8.67,11.50C8.67,10.12,9.79,9.00,11.17,9.00z" />
+        android:strokeLineJoin="miter" />
 </vector>

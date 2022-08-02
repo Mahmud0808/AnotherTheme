@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-74:12
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-75:12
 MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\7037a46ae76cf8945b704708ca3553b2\PiracyChecker-1.2.5\AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.android.material:material:1.6.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\402b4100f698918c6f9c6cec678e9181\material-1.6.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\6357e0b2a608356699d78d3f7b912492\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
@@ -40,29 +40,29 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\StudioProjects\.gradle\ca
 MERGED from [androidx.interpolator:interpolator:1.0.0] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\25f39401474222ef694b949c8d976c8a\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.billingclient:billing:2.0.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\099479360718de040bddaf08ef8cf0fc\billing-2.0.1\AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\1e0c619578e9acf85b364b7a58bd6b37\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-75:12
 	package
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:4:11-48
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:4:5-42
 		INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml
 		INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-74:12
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-75:12
 		INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:3:11-57
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-74:12
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:1-75:12
 		INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:5:11-49
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:5:5-43
 uses-permission#com.android.vending.CHECK_LICENSE
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:7:5-72
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:7:5-73
 MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\7037a46ae76cf8945b704708ca3553b2\PiracyChecker-1.2.5\AndroidManifest.xml:11:5-73
 MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\7037a46ae76cf8945b704708ca3553b2\PiracyChecker-1.2.5\AndroidManifest.xml:11:5-73
 	android:name
@@ -78,13 +78,13 @@ MERGED from [com.android.billingclient:billing:2.0.1] D:\StudioProjects\.gradle\
 	android:name
 		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:9:22-64
 uses-feature#projekt.substratum.theme
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:11:2-13:36
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:11:5-13:36
 	android:required
 		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:13:9-33
 	android:name
 		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:12:9-48
 application
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:15:5-72:19
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:15:5-73:19
 REJECTED from [com.github.javiersantos:PiracyChecker:1.2.5] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\7037a46ae76cf8945b704708ca3553b2\PiracyChecker-1.2.5\AndroidManifest.xml:13:5-17:19
 REJECTED from [com.google.android.material:material:1.6.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\402b4100f698918c6f9c6cec678e9181\material-1.6.1\AndroidManifest.xml:24:5-20
 REJECTED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\6357e0b2a608356699d78d3f7b912492\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
@@ -92,21 +92,21 @@ REJECTED from [androidx.core:core:1.5.0] D:\StudioProjects\.gradle\caches\transf
 REJECTED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\cd510d72cd619c6cd556399326d3d336\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 REJECTED from [com.android.billingclient:billing:2.0.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\099479360718de040bddaf08ef8cf0fc\billing-2.0.1\AndroidManifest.xml:12:5-21:19
 	tools:node
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:21:9-29
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:23:9-29
 	android:extractNativeLibs
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:23:9-42
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:17:9-42
 	android:supportsRtl
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:20:9-35
 	android:label
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:18:9-42
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:19:9-42
 	tools:ignore
 		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:22:9-48
 	android:icon
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:18:9-43
 	android:allowBackup
 		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:16:9-36
 	android:theme
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:20:9-43
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:21:9-43
 activity#com.drdisagree.anothertheme.SubstratumLauncher
 ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:25:9-41:20
 	android:name
@@ -114,17 +114,17 @@ ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:25:9
 intent-filter#action:name:projekt.substratum.THEME+category:name:android.intent.category.DEFAULT
 ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:26:13-29:29
 action#projekt.substratum.THEME
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:27:17-66
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:27:17-67
 	android:name
 		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:27:25-64
 category#android.intent.category.DEFAULT
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:28:17-75
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:28:17-76
 	android:name
 		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:28:27-73
 intent-filter#action:name:projekt.substratum.lite.THEME+category:name:android.intent.category.DEFAULT
 ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:30:13-33:29
 action#projekt.substratum.lite.THEME
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:31:17-71
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:31:17-72
 	android:name
 		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:31:25-69
 intent-filter#action:name:projekt.substratum.GET_KEYS+category:name:android.intent.category.DEFAULT
@@ -136,63 +136,63 @@ ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:35:1
 intent-filter#action:name:android.intent.action.MAIN
 ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:38:13-40:29
 action#android.intent.action.MAIN
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:39:17-68
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:39:17-69
 	android:name
 		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:39:25-66
 meta-data#Substratum_Legacy
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:42:9-44:55
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:43:9-45:56
 	android:value
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:44:13-53
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:45:13-53
 	android:name
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:43:13-45
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:44:13-45
 meta-data#Substratum_Name
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:45:9-47:48
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:46:9-48:49
 	android:value
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:47:13-46
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:48:13-46
 	android:name
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:46:13-43
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:47:13-43
 meta-data#Substratum_Author
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:48:9-50:50
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:49:9-51:51
 	android:value
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:50:13-48
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:51:13-48
 	android:name
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:49:13-45
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:50:13-45
 meta-data#Substratum_Email
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:51:9-53:55
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:52:9-54:56
 	android:value
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:53:13-53
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:54:13-53
 	android:name
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:52:13-44
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:53:13-44
 meta-data#Substratum_Samsung
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:54:9-56:56
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:55:9-57:57
 	android:value
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:56:13-54
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:57:13-54
 	android:name
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:55:13-46
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:56:13-46
 meta-data#Substratum_Wallpapers
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:57:9-59:59
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:58:9-60:60
 	android:value
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:59:13-57
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:60:13-57
 	android:name
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:58:13-49
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:59:13-49
 meta-data#Substratum_HeroOverride
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:60:9-62:56
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:61:9-63:57
 	android:value
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:62:13-54
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:63:13-54
 	android:name
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:61:13-51
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:62:13-51
 meta-data#Substratum_Plugin
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:65:9-67:37
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:66:9-68:38
 	android:value
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:67:13-35
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:68:13-35
 	android:name
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:66:13-45
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:67:13-45
 meta-data#Substratum_Encryption
-ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:68:9-70:56
+ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:69:9-71:57
 	android:value
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:70:13-54
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:71:13-54
 	android:name
-		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:69:13-49
+		ADDED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:70:13-49
 uses-sdk
 INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml

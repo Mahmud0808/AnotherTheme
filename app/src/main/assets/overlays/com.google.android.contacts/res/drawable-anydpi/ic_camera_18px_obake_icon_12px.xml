@@ -5,26 +5,26 @@
     android:viewportHeight="18.0">
     <path
         android:fillColor="#66FFFFFF"
-        android:strokeLineJoin="miter"
         android:fillType="nonZero"
+        android:pathData="M3.71,3.75L14.29,3.75A2.21 2.21 0 0 1 16.50,5.96L16.50,13.54A2.21 2.21 0 0 1 14.29,15.75L3.71,15.75A2.21 2.21 0 0 1 1.50,13.54L1.50,5.96A2.21 2.21 0 0 1 3.71,3.75z"
         android:strokeLineCap="square"
-        android:pathData="M3.71,3.75L14.29,3.75A2.21 2.21 0 0 1 16.50,5.96L16.50,13.54A2.21 2.21 0 0 1 14.29,15.75L3.71,15.75A2.21 2.21 0 0 1 1.50,13.54L1.50,5.96A2.21 2.21 0 0 1 3.71,3.75z" />
+        android:strokeLineJoin="miter" />
     <path
         android:fillColor="#66FFFFFF"
-        android:strokeLineJoin="round"
         android:fillType="nonZero"
+        android:pathData="M4.87,3.75C6.19,3.56,6.19,2.44,7.13,2.25L10.88,2.25C11.81,2.44,11.81,3.56,13.13,3.75z"
         android:strokeLineCap="square"
-        android:pathData="M4.87,3.75C6.19,3.56,6.19,2.44,7.13,2.25L10.88,2.25C11.81,2.44,11.81,3.56,13.13,3.75z" />
+        android:strokeLineJoin="round" />
     <path
         android:fillColor="#FFFFFFFF"
-        android:strokeLineJoin="round"
         android:fillType="nonZero"
+        android:pathData="M9.00,6.00C11.07,6.00,12.75,7.68,12.75,9.75C12.75,11.82,11.07,13.50,9.00,13.50C6.93,13.50,5.25,11.82,5.25,9.75C5.25,7.68,6.93,6.00,9.00,6.00z"
         android:strokeLineCap="square"
-        android:pathData="M9.00,6.00C11.07,6.00,12.75,7.68,12.75,9.75C12.75,11.82,11.07,13.50,9.00,13.50C6.93,13.50,5.25,11.82,5.25,9.75C5.25,7.68,6.93,6.00,9.00,6.00z" />
+        android:strokeLineJoin="round" />
     <path
         android:fillColor="#FFFFFFFF"
-        android:strokeLineJoin="round"
         android:fillType="nonZero"
+        android:pathData="M14.25,5.25C14.67,5.25,15.00,5.58,15.00,6.00C15.00,6.42,14.67,6.75,14.25,6.75C13.83,6.75,13.50,6.42,13.50,6.00C13.50,5.58,13.83,5.25,14.25,5.25z"
         android:strokeLineCap="square"
-        android:pathData="M14.25,5.25C14.67,5.25,15.00,5.58,15.00,6.00C15.00,6.42,14.67,6.75,14.25,6.75C13.83,6.75,13.50,6.42,13.50,6.00C13.50,5.58,13.83,5.25,14.25,5.25z" />
+        android:strokeLineJoin="round" />
 </vector>

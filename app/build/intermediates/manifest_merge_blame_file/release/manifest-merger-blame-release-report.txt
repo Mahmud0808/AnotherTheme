@@ -12,7 +12,7 @@
 10-->[com.github.javiersantos:PiracyChecker:1.2.5] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\7037a46ae76cf8945b704708ca3553b2\PiracyChecker-1.2.5\AndroidManifest.xml:9:9-38
 11
 12    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
-12-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:7:5-72
+12-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:7:5-73
 12-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:7:22-70
 13    <uses-permission android:name="android.permission.INTERNET" />
 13-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:8:5-67
@@ -22,7 +22,7 @@
 14-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:9:22-64
 15
 16    <uses-feature
-16-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:11:2-13:36
+16-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:11:5-13:36
 17        android:name="projekt.substratum.theme"
 17-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:12:9-48
 18        android:required="false" />
@@ -30,40 +30,40 @@
 19
 20    <!-- Set to true for OMS-rom only block to be enabled -->
 21    <application
-21-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:15:5-72:19
+21-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:15:5-73:19
 22        android:allowBackup="false"
 22-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:16:9-36
 23        android:extractNativeLibs="false"
-23-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:23:9-42
+23-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:17:9-42
 24        android:icon="@mipmap/ic_launcher"
-24-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:17:9-43
+24-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:18:9-43
 25        android:label="@string/ThemeName"
-25-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:18:9-42
+25-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:19:9-42
 26        android:supportsRtl="true"
-26-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:19:9-35
+26-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:20:9-35
 27        android:theme="@style/DialogStyle" >
-27-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:20:9-43
+27-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:21:9-43
 28        <activity android:name="com.drdisagree.anothertheme.SubstratumLauncher" >
 28-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:25:9-41:20
 28-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:25:19-80
 29            <intent-filter>
 29-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:26:13-29:29
 30                <action android:name="projekt.substratum.THEME" />
-30-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:27:17-66
+30-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:27:17-67
 30-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:27:25-64
 31
 32                <category android:name="android.intent.category.DEFAULT" />
-32-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:28:17-75
+32-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:28:17-76
 32-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:28:27-73
 33            </intent-filter>
 34            <intent-filter>
 34-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:30:13-33:29
 35                <action android:name="projekt.substratum.lite.THEME" />
-35-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:31:17-71
+35-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:31:17-72
 35-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:31:25-69
 36
 37                <category android:name="android.intent.category.DEFAULT" />
-37-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:28:17-75
+37-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:28:17-76
 37-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:28:27-73
 38            </intent-filter>
 39            <intent-filter>
@@ -73,73 +73,73 @@
 40-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:35:25-67
 41
 42                <category android:name="android.intent.category.DEFAULT" />
-42-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:28:17-75
+42-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:28:17-76
 42-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:28:27-73
 43            </intent-filter>
 44            <intent-filter>
 44-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:38:13-40:29
 45                <action android:name="android.intent.action.MAIN" />
-45-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:39:17-68
+45-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:39:17-69
 45-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:39:25-66
 46            </intent-filter>
 47        </activity>
 48
 49        <meta-data
-49-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:42:9-44:55
+49-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:43:9-45:56
 50            android:name="Substratum_Legacy"
-50-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:43:13-45
+50-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:44:13-45
 51            android:value="@bool/ThemeSupportLegacy" />
-51-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:44:13-53
+51-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:45:13-53
 52        <meta-data
-52-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:45:9-47:48
+52-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:46:9-48:49
 53            android:name="Substratum_Name"
-53-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:46:13-43
+53-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:47:13-43
 54            android:value="@string/ThemeName" />
-54-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:47:13-46
+54-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:48:13-46
 55        <meta-data
-55-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:48:9-50:50
+55-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:49:9-51:51
 56            android:name="Substratum_Author"
-56-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:49:13-45
+56-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:50:13-45
 57            android:value="@string/ThemeAuthor" />
-57-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:50:13-48
+57-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:51:13-48
 58        <meta-data
-58-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:51:9-53:55
+58-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:52:9-54:56
 59            android:name="Substratum_Email"
-59-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:52:13-44
+59-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:53:13-44
 60            android:value="@string/ThemeAuthorEmail" />
-60-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:53:13-53
+60-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:54:13-53
 61        <meta-data
-61-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:54:9-56:56
+61-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:55:9-57:57
 62            android:name="Substratum_Samsung"
-62-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:55:13-46
+62-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:56:13-46
 63            android:value="@bool/ThemeSupportSamsung" />
-63-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:56:13-54
+63-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:57:13-54
 64        <meta-data
-64-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:57:9-59:59
+64-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:58:9-60:60
 65            android:name="Substratum_Wallpapers"
-65-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:58:13-49
+65-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:59:13-49
 66            android:value="@string/ThemeWallpaperSource" />
-66-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:59:13-57
+66-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:60:13-57
 67        <meta-data
-67-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:60:9-62:56
+67-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:61:9-63:57
 68            android:name="Substratum_HeroOverride"
-68-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:61:13-51
+68-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:62:13-51
 69            android:value="@string/ThemeHeroOverride" />
-69-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:62:13-54
+69-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:63:13-54
 70
 71        <!-- SUBSTRATUM INTERNAL USE: DO NOT TOUCH -->
 72        <meta-data
-72-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:65:9-67:37
+72-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:66:9-68:38
 73            android:name="Substratum_Plugin"
-73-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:66:13-45
+73-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:67:13-45
 74            android:value="14.0.4" />
-74-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:67:13-35
+74-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:68:13-35
 75        <meta-data
-75-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:68:9-70:56
+75-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:69:9-71:57
 76            android:name="Substratum_Encryption"
-76-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:69:13-49
+76-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:70:13-49
 77            android:value="@string/encryption_status" />
-77-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:70:13-54
+77-->D:\StudioProjects\Another Theme\app\src\main\AndroidManifest.xml:71:13-54
 78    </application>
 79
 80</manifest>
