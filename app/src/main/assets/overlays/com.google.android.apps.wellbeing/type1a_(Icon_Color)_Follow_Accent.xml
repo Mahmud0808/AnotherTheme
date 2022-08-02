@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="dummy">?android:colorBackground</color>
-    <color name="icon_tint">@color/holo_blue_light</color>
+    <color name="icon_tint">@*android:color/accent_material_dark</color>
 </resources>

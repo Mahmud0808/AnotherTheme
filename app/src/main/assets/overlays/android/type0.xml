@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <type0>
-
-    <type0b name="Accent Color 1" color="#FFAECBFA">
+    <type0a name="Accent" color="#FFAECBFA">
+        <resource name="accent_material_dark" />
+    </type0a>
+    <type0b name="Gradient Start" color="#FFAECBFA">
         <preset>#FFAECBFA</preset>
         <resource name="holo_blue_light" alpha_allowed="true" lighten="0.04" />
     </type0b>
-    <type0c name="Accent Color 2" color="#FFAECBFA">
+    <type0c name="Gradient End" color="#FFAECBFA">
         <preset>#FFAECBFA</preset>
         <resource name="holo_green_light" alpha_allowed="true" lighten="0.04" />
     </type0c>
