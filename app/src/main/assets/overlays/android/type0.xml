@@ -2,9 +2,24 @@
 <type0>
     <type0a name="Accent" color="#FFAECBFA">
         <resource name="accent_material_dark" />
+        <resource name="accent_device_default_dark" />
+        <resource name="accent_device_default_light" />
+        <resource name="accent_material_light" />
+        <resource name="accessibility_focus_highlight" />
+        <resource name="config_defaultNotificationColor" />
+        <resource name="holo_blue_bright" />
+        <resource name="legacy_control_activated" />
+        <resource name="link_text_dark" />
+        <resource name="link_text_light" />
+        <resource name="material_deep_teal_200" />
+        <resource name="material_deep_teal_500" />
+        <resource name="notification_icon_default_color" />
+        <resource name="profile_badge_1" />
+        <resource name="system_notification_accent_color" />
+        <resource name="user_icon_1" />
     </type0a>
     <type0b name="Gradient Start" color="#FFAECBFB">
-        <resource name="holo_blue_light" alpha_allowed="true"/>
+        <resource name="holo_blue_light" alpha_allowed="true" />
     </type0b>
     <type0c name="Gradient End" color="#FFAECBFC">
         <resource name="holo_green_light" />
