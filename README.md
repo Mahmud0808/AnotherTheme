@@ -32,4 +32,4 @@ Link - https://t.me/AnotherThemeBot
 
 ## Download
 
-[Click Here](https://www.pling.com/p/1732643/)
+Link - https://www.pling.com/p/1732643/
