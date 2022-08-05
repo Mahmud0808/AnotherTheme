@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Mahmud0808/AnotherTheme/blob/master/app/src/main/res/drawable-xxhdpi/heroimage.png?raw=true">
 
-A [substratum theme](https://www.xda-developers.com/substratum-hub/) with some amazing icon sets to customize your Android UI
+A [substratum theme](https://www.xda-developers.com/substratum-hub/) with some amazing icon sets to customize your Android UI.
 
 ## Join in Telegram Channel
 
@@ -14,19 +14,19 @@ Link - https://t.me/AnotherThemeBot
 
 ## Thanks To
 
-@Android Open Source Project (AOSP)
-@Substratum Team (Projekt Development Team)
-@DJDarkknight96
-@Rodolphe06
-@Amiriza
-@krush100
-@FlowVik
-@indianrookie69
-@Ritesh_Kanwar
-@Jaguar0066
-@Himanshu_Chauhan_11
-@mr_bla_nk
-@Fischl_PV
+@Android Open Source Project (AOSP)<br/>
+@Substratum Team (Projekt Development Team)<br/>
+@DJDarkknight96<br/>
+@Rodolphe06<br/>
+@Amiriza<br/>
+@krush100<br/>
+@FlowVik<br/>
+@indianrookie69<br/>
+@Ritesh_Kanwar<br/>
+@Jaguar0066<br/>
+@Himanshu_Chauhan_11<br/>
+@mr_bla_nk<br/>
+@Fischl_PV<br/>
 
 # Download
 
