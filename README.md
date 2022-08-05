@@ -17,6 +17,8 @@ Link - https://t.me/AnotherThemeBot
 @Android Open Source Project (AOSP)<br/>
 @Substratum Team (Projekt Development Team)<br/>
 @DJDarkknight96<br/>
+@r/iOSthemes<br/>
+@icons8<br/>
 @Rodolphe06<br/>
 @Amiriza<br/>
 @krush100<br/>
