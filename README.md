@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Mahmud0808/AnotherTheme/blob/master/app/src/main/res/drawable-xxhdpi/heroimage.png?raw=true">
 
-A [substratum theme](https://www.xda-developers.com/substratum-hub/) to customize your Android UI
+A [substratum theme](https://www.xda-developers.com/substratum-hub/) with some amazing icon sets to customize your Android UI
 
 ## Join in Telegram Channel
 
