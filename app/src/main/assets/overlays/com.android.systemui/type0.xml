@@ -6,7 +6,7 @@
         <resource name="light_mode_icon_color_dual_tone_background" alpha_allowed="true"
             lighten="0.05" />
     </type0a>
-    <type0b name="Battery Foreground Color" color="#FFAECBFA">
+    <type0b name="Battery Foreground Color" color="#FFAECBFB">
         <preset>#FF90EE90</preset>
         <preset>#FF9E9E9E</preset>
         <resource name="light_mode_icon_color_dual_tone_fill" lighten="0.05" />
