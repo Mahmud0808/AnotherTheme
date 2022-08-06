@@ -17,7 +17,7 @@
     <color name="ripple_small">#28FFFFFF</color>
 
     <string name="launch_dialog_title">Another Theme</string>
-    <string name="launch_dialog_content">Thanks for downloading this theme!</string>
+    <string name="launch_dialog_content">❗ Substratum Lite Only ❗\nThanks for downloading this theme!</string>
     <string name="welcome">Thank you for installing this theme.</string>
     <string name="launch_dialog_positive">YES</string>
     <string name="launch_dialog_neutral">Rate</string>
