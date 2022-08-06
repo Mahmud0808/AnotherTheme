@@ -9,14 +9,20 @@ public final class BuildConfig {
   public static final String BUILD_TYPE = "release";
   public static final int VERSION_CODE = 10;
   public static final String VERSION_NAME = "1.9";
-  // Fields from build type: release
-  public static final String APK_SIGNATURE_PRODUCTION = "";
-  public static final String BASE_64_LICENSE_KEY = "";
-  public static final boolean ENFORCE_GOOGLE_PLAY_INSTALL = false;
-  // Fields from default config.
+  // Field from default config.
   public static final boolean ALLOW_THIRD_PARTY_SUBSTRATUM_BUILDS = true;
-  public static final byte[] DECRYPTION_KEY = {18, -111, -9, -53, -12, 93, 26, 50, 3, 38, 35, -61, 5, -125, 76, -85};
+  // Field from build type: release
+  public static final String APK_SIGNATURE_PRODUCTION = "";
+  // Field from build type: release
+  public static final String BASE_64_LICENSE_KEY = "";
+  // Field from default config.
+  public static final byte[] DECRYPTION_KEY = {73, 14, -45, -35, 11, 110, -13, 9, 0, -25, -4, -116, -55, 90, -93, 82};
+  // Field from default config.
   public static final boolean ENABLE_APP_BLACKLIST_CHECK = true;
-  public static final byte[] IV_KEY = {94, -61, 41, -96, 72, -8, 39, -14, -94, 96, -82, -82, -14, -56, -50, -91};
+  // Field from build type: release
+  public static final boolean ENFORCE_GOOGLE_PLAY_INSTALL = false;
+  // Field from default config.
+  public static final byte[] IV_KEY = {-67, -118, -61, -6, -32, 45, 87, -53, -75, 106, 103, -8, 98, 6, -115, -97};
+  // Field from default config.
   public static final boolean SUPPORTS_THIRD_PARTY_SYSTEMS = true;
 }

@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/AnotherTheme/app/src/main/res/drawable/btn_bg.xml" value="0.196" />
+        <entry key="..\:/AndroidStudioProjects/AnotherTheme/app/src/main/res/drawable/dialog_bg.xml" value="0.196" />
+        <entry key="..\:/AndroidStudioProjects/AnotherTheme/app/src/main/res/layout/custom_dialog.xml" value="0.5" />
         <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/btn_bg.xml" value="0.1955" />
         <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/btn_continue.xml" value="0.25" />
         <entry key="..\:/StudioProjects/Another Theme/app/src/main/res/drawable/btn_desc.xml" value="0.2775" />

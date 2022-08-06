@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\StudioProjects\\Another Theme\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sl\\values-sl.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\AnotherTheme\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sl\\values-sl.xml",
             "map": [
                 {
-                    "source": "D:\\StudioProjects\\.gradle\\caches\\transforms-2\\files-2.1\\402b4100f698918c6f9c6cec678e9181\\material-1.6.1\\res\\values-sl\\values-sl.xml",
+                    "source": "C:\\Users\\Mahmud\\.gradle\\caches\\transforms-2\\files-2.1\\402b4100f698918c6f9c6cec678e9181\\material-1.6.1\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,24 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\StudioProjects\\.gradle\\caches\\transforms-2\\files-2.1\\9542bda32e347c21d1fd0be188f958d8\\core-1.5.0\\res\\values-sl\\values-sl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "90",
-                        "startColumns": "4",
-                        "startOffsets": "7550",
-                        "endColumns": "100",
-                        "endOffsets": "7646"
-                    }
-                },
-                {
-                    "source": "D:\\StudioProjects\\.gradle\\caches\\transforms-2\\files-2.1\\c6031a665a43f3edf6fb9cd657c40d52\\appcompat-1.2.0\\res\\values-sl\\values-sl.xml",
+                    "source": "C:\\Users\\Mahmud\\.gradle\\caches\\transforms-2\\files-2.1\\c6031a665a43f3edf6fb9cd657c40d52\\appcompat-1.2.0\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -54,6 +37,23 @@
                         "startOffsets": "372,484,586,694,781,884,1003,1084,1162,1254,1348,1443,1537,1632,1726,1822,1922,2014,2106,2190,2298,2406,2506,2619,2727,2835,3018,7466",
                         "endColumns": "111,101,107,86,102,118,80,77,91,93,94,93,94,93,95,99,91,91,83,107,107,99,112,107,107,182,99,83",
                         "endOffsets": "479,581,689,776,879,998,1079,1157,1249,1343,1438,1532,1627,1721,1817,1917,2009,2101,2185,2293,2401,2501,2614,2722,2830,3013,3113,7545"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mahmud\\.gradle\\caches\\transforms-2\\files-2.1\\9542bda32e347c21d1fd0be188f958d8\\core-1.5.0\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "90",
+                        "startColumns": "4",
+                        "startOffsets": "7550",
+                        "endColumns": "100",
+                        "endOffsets": "7646"
                     }
                 }
             ]

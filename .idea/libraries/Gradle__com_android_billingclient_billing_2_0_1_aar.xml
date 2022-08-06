@@ -2,15 +2,16 @@
   <library name="Gradle: com.android.billingclient:billing:2.0.1@aar">
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/099479360718de040bddaf08ef8cf0fc/billing-2.0.1/annotations.zip!/" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/099479360718de040bddaf08ef8cf0fc/billing-2.0.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/15d65e301ac80cc3bcc3f39564f9a551/transformed/billing-2.0.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/099479360718de040bddaf08ef8cf0fc/billing-2.0.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/099479360718de040bddaf08ef8cf0fc/billing-2.0.1/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/099479360718de040bddaf08ef8cf0fc/billing-2.0.1/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/099479360718de040bddaf08ef8cf0fc/billing-2.0.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/099479360718de040bddaf08ef8cf0fc/billing-2.0.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/099479360718de040bddaf08ef8cf0fc/billing-2.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/15d65e301ac80cc3bcc3f39564f9a551/transformed/billing-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/15d65e301ac80cc3bcc3f39564f9a551/transformed/billing-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/15d65e301ac80cc3bcc3f39564f9a551/transformed/billing-2.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.android.billingclient/billing/2.0.1/24ef1d8d9d086d3cd045f575e44992a567b63ac5/billing-2.0.1-javadoc.jar!/" />

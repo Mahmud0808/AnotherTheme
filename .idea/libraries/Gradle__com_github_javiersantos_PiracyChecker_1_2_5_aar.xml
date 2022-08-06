@@ -4,9 +4,9 @@
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7037a46ae76cf8945b704708ca3553b2/PiracyChecker-1.2.5/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7037a46ae76cf8945b704708ca3553b2/PiracyChecker-1.2.5/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7037a46ae76cf8945b704708ca3553b2/PiracyChecker-1.2.5/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7037a46ae76cf8945b704708ca3553b2/PiracyChecker-1.2.5/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7037a46ae76cf8945b704708ca3553b2/PiracyChecker-1.2.5/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7037a46ae76cf8945b704708ca3553b2/PiracyChecker-1.2.5/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/96de48e4294314e95bfaf6a2f9eaef25/transformed/PiracyChecker-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/96de48e4294314e95bfaf6a2f9eaef25/transformed/PiracyChecker-1.2.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/96de48e4294314e95bfaf6a2f9eaef25/transformed/PiracyChecker-1.2.5/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

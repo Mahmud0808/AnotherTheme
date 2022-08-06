@@ -86,12 +86,55 @@
                 android:textColor="@color/accent_color"
                 android:textSize="24.0sp" />
 
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="-4.0dip"
+                    android:background="@android:color/transparent"
+                    android:fontFamily="@font/baloo2regular"
+                    android:gravity="center"
+                    android:text="❗"
+                    android:textColor="@color/desc_color"
+                    android:textSize="14.0sp" />
+
+                <TextView
+                    android:id="@+id/dialog_warn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="-4.0dip"
+                    android:background="@android:color/transparent"
+                    android:fontFamily="@font/baloo2medium"
+                    android:gravity="center"
+                    android:text="@string/launch_dialog_warn"
+                    android:textColor="@color/desc_color"
+                    android:textSize="16.0sp" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="-4.0dip"
+                    android:background="@android:color/transparent"
+                    android:fontFamily="@font/baloo2regular"
+                    android:gravity="center"
+                    android:text="❗"
+                    android:textColor="@color/desc_color"
+                    android:textSize="14.0sp" />
+
+            </LinearLayout>
+
             <TextView
                 android:id="@+id/dialog_content"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:layout_marginTop="-4.0dip"
                 android:background="@android:color/transparent"
                 android:fontFamily="@font/baloo2regular"
                 android:gravity="center"

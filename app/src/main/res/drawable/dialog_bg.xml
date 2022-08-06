@@ -6,7 +6,7 @@
             <solid android:color="@color/dialog_background" />
             <stroke
                 android:width="3.0dip"
-                android:color="#2874D4FB" />
+                android:color="@color/dialog_stroke" />
         </shape>
     </item>
 </layer-list>

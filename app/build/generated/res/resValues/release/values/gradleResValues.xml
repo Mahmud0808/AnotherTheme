@@ -3,7 +3,7 @@
 
     <!-- Automatically generated file. DO NOT MODIFY -->
 
-    <!-- Values from default config. -->
+    <!-- Value from default config. -->
     <string name="encryption_status" translatable="false">onCompileVerify</string>
 
 </resources>

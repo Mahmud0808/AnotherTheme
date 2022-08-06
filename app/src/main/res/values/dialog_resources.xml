@@ -15,9 +15,11 @@
     <color name="btn_tg">@color/btn_color</color>
     <color name="ripple_color">#6674D4FB</color>
     <color name="ripple_small">#28000000</color>
+    <color name="dialog_stroke">#99006687</color>
 
     <string name="launch_dialog_title">Another Theme</string>
-    <string name="launch_dialog_content">❗ Substratum Lite Only ❗\nThanks for downloading this theme!</string>
+    <string name="launch_dialog_warn">Substratum Lite Only</string>
+    <string name="launch_dialog_content">Thanks for downloading this theme!</string>
     <string name="welcome">Thank you for installing this theme.</string>
     <string name="launch_dialog_positive">YES</string>
     <string name="launch_dialog_neutral">Rate</string>

@@ -1174,6 +1174,7 @@ color design_fab_stroke_top_outer_color
 color design_icon_tint
 color design_snackbar_background_color
 color dialog_background
+color dialog_stroke
 color dim_foreground_disabled_material_dark
 color dim_foreground_disabled_material_light
 color dim_foreground_material_dark
@@ -2442,10 +2443,8 @@ drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 font baloo2bold
-font baloo2extrabold
 font baloo2medium
 font baloo2regular
-font baloo2semibold
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2584,6 +2583,7 @@ id design_menu_item_text
 id design_navigation_view
 id dialog_button
 id dialog_content
+id dialog_warn
 id dimensions
 id direct
 id disableHome
@@ -3138,6 +3138,7 @@ string launch_dialog_negative
 string launch_dialog_neutral
 string launch_dialog_positive
 string launch_dialog_title
+string launch_dialog_warn
 string library_piracychecker_author
 string library_piracychecker_authorWebsite
 string library_piracychecker_isOpenSource
