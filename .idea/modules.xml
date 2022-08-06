@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Another_Theme.iml" filepath="$PROJECT_DIR$/.idea/modules/Another_Theme.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Another_Theme.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Another_Theme.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Another_Theme.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Another_Theme.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Another_Theme.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Another_Theme.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Another_Theme.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Another_Theme.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnotherTheme.iml" filepath="$PROJECT_DIR$/.idea/modules/AnotherTheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnotherTheme.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnotherTheme.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnotherTheme.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnotherTheme.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnotherTheme.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnotherTheme.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnotherTheme.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnotherTheme.app.unitTest.iml" />
     </modules>
   </component>
 </project>
