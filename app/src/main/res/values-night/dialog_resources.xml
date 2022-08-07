@@ -13,7 +13,7 @@
     <color name="desc_color">#FF95ACC9</color>
     <color name="continue_color">#FFD6DDEA</color>
     <color name="btn_tg">@color/accent_color</color>
-    <color name="ripple_color">#9974D4FB</color>
+    <color name="ripple_color">#6674D4FB</color>
     <color name="ripple_small">#28FFFFFF</color>
     <color name="dialog_stroke">#2874D4FB</color>
 
