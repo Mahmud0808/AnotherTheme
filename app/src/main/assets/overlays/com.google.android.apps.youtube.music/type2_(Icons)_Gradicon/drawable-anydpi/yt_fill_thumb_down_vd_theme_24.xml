@@ -22,17 +22,17 @@
                     android:endY="21.012"
                     android:type="linear">
                     <item
-                        android:color="#FFFFFFFF"
+                        android:color="#00000000"
                         android:offset="0.000" />
                     <item
-                        android:color="#FFFFFFFF"
+                        android:color="#00000000"
                         android:offset="1.000" />
                 </gradient>
             </aapt:attr>
             <aapt:attr name="android:fillColor">
                 <gradient
-                    android:startX="12.131"
-                    android:startY="0.137"
+                    android:startX="12.000"
+                    android:startY="12.000"
                     android:endX="12.131"
                     android:endY="23.038"
                     android:type="linear">
