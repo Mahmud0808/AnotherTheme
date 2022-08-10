@@ -4,7 +4,8 @@
     android:height="24.0dp"
     android:viewportWidth="24.0"
     android:viewportHeight="24.0">
-    <group android:pivotX="11.378"
+    <group
+        android:pivotX="11.378"
         android:pivotY="11.341"
         android:scaleY="1.000"
         android:rotation="-0.000">
