@@ -23,10 +23,8 @@ Link - https://t.me/AnotherThemeBot
 @Amiriza<br/>
 @krush100<br/>
 @FlowVik<br/>
-@indianrookie69<br/>
 @Ritesh_Kanwar<br/>
 @Jaguar0066<br/>
-@Himanshu_Chauhan_11<br/>
 @mr_bla_nk<br/>
 @Fischl_PV<br/>
 
