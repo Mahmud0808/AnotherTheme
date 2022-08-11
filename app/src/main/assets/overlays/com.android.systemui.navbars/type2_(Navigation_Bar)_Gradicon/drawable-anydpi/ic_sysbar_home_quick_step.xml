@@ -13,14 +13,14 @@
 
         <path
             android:fillType="nonZero"
-            android:pathData="M6.50,9.50L21.50,9.50A4.00 4.00 0 0 1 25.50,13.50L25.50,14.50A4.00 4.00 0 0 1 21.50,18.50L6.50,18.50A4.00 4.00 0 0 1 2.50,14.50L2.50,13.50A4.00 4.00 0 0 1 6.50,9.50zM15.75,9.50L14.25,9.50L10.25,18.50L11.75,18.50L15.75,9.50zM12.50,9.50L11.00,9.50L7.00,18.50L8.50,18.50L12.50,9.50z"
+            android:pathData="M5.00,9.50L23.00,9.50A4.00 4.00 0 0 1 27.00,13.50L27.00,14.50A4.00 4.00 0 0 1 23.00,18.50L5.00,18.50A4.00 4.00 0 0 1 1.00,14.50L1.00,13.50A4.00 4.00 0 0 1 5.00,9.50zM15.75,9.50L14.25,9.50L10.25,18.50L11.75,18.50L15.75,9.50zM12.50,9.50L11.00,9.50L7.00,18.50L8.50,18.50L12.50,9.50z"
             android:strokeLineCap="square"
             android:strokeLineJoin="miter">
             <aapt:attr name="android:strokeColor">
                 <gradient
-                    android:endX="25.500"
+                    android:endX="27.000"
                     android:endY="18.500"
-                    android:startX="2.500"
+                    android:startX="1.000"
                     android:startY="9.500"
                     android:type="linear">
                     <item
