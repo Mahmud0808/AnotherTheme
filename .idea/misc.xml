@@ -24,6 +24,9 @@
       </map>
     </option>
   </component>
+  <component name="ProjectResources">
+    <resource url="https://schemas.android.com/apk/res/android" location="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
