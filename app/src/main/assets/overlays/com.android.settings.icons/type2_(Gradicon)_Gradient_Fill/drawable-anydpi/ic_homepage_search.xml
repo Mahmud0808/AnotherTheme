@@ -39,11 +39,10 @@
                     android:endY="23.468"
                     android:type="linear">
                     <item
-                        android:color="@color/icon_tint"
+                        android:color="#FF000000"
                         android:offset="0.000" />
                     <item
-                        android:alpha="0.4"
-                        android:color="@color/icon_tint"
+                        android:color="#66000000"
                         android:offset="1.000" />
                 </gradient>
             </aapt:attr>
