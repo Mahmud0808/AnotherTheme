@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="quick_qs_panel_max_rows">1</integer>
+    <integer name="quick_qs_panel_max_columns">3</integer>
+    <integer name="quick_qs_panel_max_tiles">3</integer>
+</resources>
