@@ -51,10 +51,11 @@
                                 android:startY="-0.000"
                                 android:type="linear">
                                 <item
-                                    android:color="#FF000000"
+                                    android:color="@color/icon_tint"
                                     android:offset="0.000" />
                                 <item
-                                    android:color="#66000000"
+                                    android:alpha="0.4"
+                                    android:color="@color/icon_tint"
                                     android:offset="1.000" />
                             </gradient>
                         </aapt:attr>
