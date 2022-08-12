@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DeviceDefault.Settings" parent="@*android:style/Theme.DeviceDefault">
+        <item name="android:colorBackground">@*android:color/background_dark</item>
+        <item name="android:colorPrimary">@*android:color/background_dark</item>
+        <item name="android:colorPrimaryDark">@*android:color/background_dark</item>
+        <item name="android:navigationBarColor">@*android:color/background_dark</item>
+    </style>
+    <style name="Theme.SystemUI.QuickSettings" parent="@*android:style/Theme.DeviceDefault.SystemUI">
+        <item name="android:textColorSecondary">#CCFFFFFF</item>
+        <item name="android:panelColorBackground">@*android:color/background_dark</item>
+        <item name="android:colorControlNormal">?android:textColorPrimary</item>
+        <item name="android:colorPrimary">@*android:color/background_dark</item>
+        <item name="android:colorPrimaryDark">@*android:color/background_dark</item>
+        <item name="android:alertDialogTheme">@*android:style/Theme.DeviceDefault.Dialog.Alert</item>
+        <item name="android:textColorPrimaryInverse">#FFFFFFFF</item>
+    </style>
+</resources>
