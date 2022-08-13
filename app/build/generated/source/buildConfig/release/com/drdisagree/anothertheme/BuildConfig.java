@@ -16,13 +16,13 @@ public final class BuildConfig {
   // Field from build type: release
   public static final String BASE_64_LICENSE_KEY = "";
   // Field from default config.
-  public static final byte[] DECRYPTION_KEY = {-17, -71, 34, 37, -70, 103, 24, -108, -38, 22, 12, -53, -2, 116, 121, 9};
+  public static final byte[] DECRYPTION_KEY = {-123, 34, -70, 106, -100, -48, 24, -122, -116, 97, 124, -103, -89, 87, -102, -48};
   // Field from default config.
   public static final boolean ENABLE_APP_BLACKLIST_CHECK = true;
   // Field from build type: release
   public static final boolean ENFORCE_GOOGLE_PLAY_INSTALL = false;
   // Field from default config.
-  public static final byte[] IV_KEY = {-54, 64, 114, -9, -90, -103, -92, -22, 12, -11, -77, 38, -42, 127, -63, 36};
+  public static final byte[] IV_KEY = {-123, -34, 81, 48, 22, -31, 22, -52, -26, -21, 39, -121, 6, -2, -12, 8};
   // Field from default config.
   public static final boolean SUPPORTS_THIRD_PARTY_SYSTEMS = true;
 }
