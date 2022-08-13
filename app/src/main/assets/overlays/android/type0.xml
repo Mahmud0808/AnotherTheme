@@ -19,7 +19,7 @@
         <resource name="user_icon_1" />
     </type0a>
     <type0b name="Gradient Start" color="#FFAECBFB">
-        <resource name="holo_blue_light" alpha_allowed="true" />
+        <resource name="holo_blue_light" />
     </type0b>
     <type0c name="Gradient End" color="#FFAECBFC">
         <resource name="holo_green_light" />
