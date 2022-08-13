@@ -31,8 +31,8 @@ android {
         // to the substratum repo rather than anything lower. Keep targetSdkVersion the same.
         minSdkVersion 29
         // Both versions must be changed to increment on Play Store/user's devices
-        versionCode 10
-        versionName "1.9"
+        versionCode 11
+        versionName "2.0"
         setProperty("archivesBaseName", "AnotherTheme v$versionName")
 
         // Themers: DO NOT MODIFY
