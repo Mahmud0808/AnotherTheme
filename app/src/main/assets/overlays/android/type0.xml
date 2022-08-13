@@ -2,9 +2,11 @@
 <type0>
     <type0a name="Accent" color="#FFAECBFA">
         <resource name="accent_material_dark" />
+        <resource name="accent_material_light" />
+        <resource name="holo_blue_dark" />
+        <resource name="holo_blue_light" />
         <resource name="accent_device_default_dark" />
         <resource name="accent_device_default_light" />
-        <resource name="accent_material_light" />
         <resource name="accessibility_focus_highlight" />
         <resource name="config_defaultNotificationColor" />
         <resource name="holo_blue_bright" />
