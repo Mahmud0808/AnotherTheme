@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 10,
-      "versionName": "1.9",
-      "outputFile": "AnotherTheme v1.9-release.apk"
+      "versionCode": 11,
+      "versionName": "2.0",
+      "outputFile": "AnotherTheme v2.0-release.apk"
     }
   ],
   "elementType": "File"

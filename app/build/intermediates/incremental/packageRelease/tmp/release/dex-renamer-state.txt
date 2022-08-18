@@ -1,4 +1,4 @@
-#Fri Aug 12 21:00:44 PDT 2022
+#Thu Aug 18 11:59:32 PDT 2022
 base.0=D\:\\AndroidStudioProjects\\AnotherTheme\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

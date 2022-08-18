@@ -2,8 +2,8 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.drdisagree.anothertheme"
 4    android:installLocation="internalOnly"
-5    android:versionCode="10"
-6    android:versionName="1.9" >
+5    android:versionCode="11"
+6    android:versionName="2.0" >
 7
 8    <uses-sdk
 9        android:minSdkVersion="29"
